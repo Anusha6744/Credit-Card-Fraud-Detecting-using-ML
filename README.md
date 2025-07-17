@@ -73,7 +73,8 @@ The objective is to identify fraudulent transactions from a large volume of cred
 - ROC Curve and F1-score for Class 1 are essential for model comparison
 
   Author
-   aajayan525@gmail.com 🔗 GitHub
+   aajayan525@gmail.com 🔗(https://github.com/Anusha6744)
+
 
 License
 This project is for educational use.

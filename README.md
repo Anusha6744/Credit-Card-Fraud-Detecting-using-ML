@@ -63,3 +63,11 @@ The objective is to identify fraudulent transactions from a large volume of cred
 - `sklearn`
 - `xgboost`
 
+## Key Insights
+
+- Class imbalance is extreme: Fraud cases ≈ 0.17%
+- **Logistic Regression** has high recall but very low precision (over-predicts fraud)
+- **Random Forest** balances precision and recall well
+- **XGBoost** achieved the best **F1-score (0.86)** and **AUC**
+- Evaluation based only on accuracy is misleading in imbalanced datasets
+- ROC Curve and F1-score for Class 1 are essential for model comparison

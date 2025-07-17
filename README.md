@@ -71,3 +71,12 @@ The objective is to identify fraudulent transactions from a large volume of cred
 - **XGBoost** achieved the best **F1-score (0.86)** and **AUC**
 - Evaluation based only on accuracy is misleading in imbalanced datasets
 - ROC Curve and F1-score for Class 1 are essential for model comparison
+
+  Author
+   aajayan525@gmail.com 🔗 GitHub
+
+License
+This project is for educational use.
+
+⭐️ Show Support
+If you liked this project, consider ⭐️ starring the repository or sharing it with others!

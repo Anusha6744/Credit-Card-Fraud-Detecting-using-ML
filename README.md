@@ -18,7 +18,7 @@ The objective is to identify fraudulent transactions from a large volume of cred
 - Random Forest (with hyperparameter tuning)
 - XGBoost (with GridSearchCV)
 
-## ⚙ Project Workflow
+##  Project Workflow
 
 1. **Data Loading and Exploration**
    - Checked class distribution and percentage of fraud cases.
@@ -39,7 +39,7 @@ The objective is to identify fraudulent transactions from a large volume of cred
    - Confusion Matrix
    - ROC-AUC Curve Comparison
 
-##  Results
+## Results
 
 | Model               | Precision (Class 1) | Recall (Class 1) | F1-score (Class 1) |
 |--------------------|---------------------|------------------|--------------------|
